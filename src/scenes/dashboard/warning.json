@@ -1,0 +1,54 @@
+{
+  "timestamp": 1667674206398,
+  "type": "analytics",
+  "trigger": {
+    "engineOn": {
+      "timestamp": 1662607055011
+    }
+  },
+  "payload": {
+    "timestamp": 1662607057000,
+    "messages": [
+      {
+        "signal": "EngRPM_Cval_CPC3",
+        "value": 619.625
+      },
+      {
+        "signal": "EngTrq_Cval_PT",
+        "value": 12.800293
+      },
+      {
+        "signal": "Latitude_Cval_CTP",
+        "value": 38.793453
+      },
+      {
+        "signal": "Longitude_Cval_CTP",
+        "value": -90.44646
+      },
+      {
+        "signal": "NavigationBasedVehicleSpeed",
+        "value": 0
+      },
+      {
+        "signal": "NumberOfSatellites",
+        "value": 11
+      },
+      {
+        "signal": "HRTotalFuelCons_Cval_ICUC",
+        "value": 109800.42
+      },
+      {
+        "signal": "Accel_X_Cval",
+        "value": 0
+      },
+      {
+        "signal": "Accel_Y_Cval",
+        "value": -0.009753906249999389
+      },
+      {
+        "signal": "YawRate_Cval_BS",
+        "value": -0.001054687499999929
+      }
+    ]
+  }
+}

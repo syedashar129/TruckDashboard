@@ -1,0 +1,52 @@
+[
+{
+  "timestamp": 1667674111409,
+  "type": "safetyevent",
+  "trigger": {
+    "Forward Collision Warning": {
+      "timestamp": 1662746832000
+    }
+  },
+  "payload": {
+    "timestamp": 1662746818000,
+    "messages": [
+      {
+        "signal": "ABA_DistToObj_Cval",
+        "value": 33
+      },
+      {
+        "signal": "EngRPM_Cval_CPC3",
+        "value": 1212.375
+      },
+      {
+        "signal": "EngTrq_Cval_PT",
+        "value": 272.8003
+      },
+      {
+        "signal": "DiffSpdFwdVeh_Cval",
+        "value": 9
+      },
+      {
+        "signal": "DistToFwdVeh_Cval",
+        "value": 33
+      },
+      {
+        "signal": "VehSpd_Cval_CPC",
+        "value": 104.47656
+      },
+      {
+        "signal": "Accel_X_Cval",
+        "value": -0.3000002
+      },
+      {
+        "signal": "Accel_Y_Cval",
+        "value": 0.4404414062500006
+      },
+      {
+        "signal": "YawRate_Cval_BS",
+        "value": 0.002485351562500071
+      }
+    ]
+  }
+}
+  ]

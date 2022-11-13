@@ -1,0 +1,272 @@
+
+[
+{
+  "timestamp": 1667674167839,
+  "type": "analytics",
+  "payload": {
+    "timestamp": 1664150327000,
+    "messages": [
+      {
+        "signal": "ABA_DistToObj_Cval",
+        "value": 255
+      },
+      {
+        "signal": "ABS_Actv2_Stat",
+        "value": 0
+      },
+      {
+        "signal": "ACC_DistAlertSgl_Stat",
+        "value": 0
+      },
+      {
+        "signal": "AccelPdlPos_Cval",
+        "value": 0
+      },
+      {
+        "signal": "ACC_OptWarn_Rq",
+        "value": 0
+      },
+      {
+        "signal": "ACC_SetDistMode_Stat",
+        "value": 4
+      },
+      {
+        "signal": "AirTempOutsd_Cval_SCA",
+        "value": 38.875
+      },
+      {
+        "signal": "BrkPdlPosn_Cval",
+        "value": 0
+      },
+      {
+        "signal": "CC_SetSpd2_Cval",
+        "value": 104
+      },
+      {
+        "signal": "DispAutoMan_Rq_CPC",
+        "value": 1
+      },
+      {
+        "signal": "CC_FuncMode_Stat",
+        "value": 5
+      },
+      {
+        "signal": "CC_Actv_Stat",
+        "value": 1
+      },
+      {
+        "signal": "TxCurrGr_Stat",
+        "value": 12
+      },
+      {
+        "signal": "DEF_Conv_Cval",
+        "value": 0.66999996
+      },
+      {
+        "signal": "DoserFuelRate_Cval_PT",
+        "value": 0
+      },
+      {
+        "signal": "EcoRollPreSel_Stat",
+        "value": 3
+      },
+      {
+        "signal": "EngRPM_Cval_CPC3",
+        "value": 1213
+      },
+      {
+        "signal": "EngTrq_Cval_PT",
+        "value": 887.3999
+      },
+      {
+        "signal": "ExtAccel_Rq_VRDU",
+        "value": 16.312511718750002
+      },
+      {
+        "signal": "ExtBrkStat_Rq_VRDU",
+        "value": 0
+      },
+      {
+        "signal": "Fan2_Stat_PT",
+        "value": 0
+      },
+      {
+        "signal": "DistToFwdVeh_Cval",
+        "value": 255
+      },
+      {
+        "signal": "Latitude_Cval_CTP",
+        "value": 34.938457
+      },
+      {
+        "signal": "Longitude_Cval_CTP",
+        "value": -116.70165
+      },
+      {
+        "signal": "NavigationBasedVehicleSpeed",
+        "value": 105.05134
+      },
+      {
+        "signal": "NumberOfSatellites",
+        "value": 12
+      },
+      {
+        "signal": "LaneDptD_Actv_Stat_MPC",
+        "value": 0
+      },
+      {
+        "signal": "LaneDptImntLt_Rq_MPC",
+        "value": 0
+      },
+      {
+        "signal": "LaneDptImntRt_Rq_MPC",
+        "value": 0
+      },
+      {
+        "signal": "LaneDptWarnLt_Rq_MPC",
+        "value": 0
+      },
+      {
+        "signal": "LaneDptWarnRt_Rq_MPC",
+        "value": 0
+      },
+      {
+        "signal": "ActlRetPctTrq_Cval_CPC3",
+        "value": 0
+      },
+      {
+        "signal": "StwAngl_Cval",
+        "value": -0.05661718749999878
+      },
+      {
+        "signal": "HRTotalFuelCons_Cval_ICUC",
+        "value": 113449.18
+      },
+      {
+        "signal": "TotalVehDist_Cval_CPC",
+        "value": 367031105
+      },
+      {
+        "signal": "TxOilTemp_Cval_CPC",
+        "value": 71.875
+      },
+      {
+        "signal": "TurnSiglLt_Cmd_SCA",
+        "value": 0
+      },
+      {
+        "signal": "TurnSiglRt_Cmd_SCA",
+        "value": 0
+      },
+      {
+        "signal": "VehSpd_Cval_CPC",
+        "value": 104.51953
+      },
+      {
+        "signal": "VehWeight_Cval_PT",
+        "value": 32
+      },
+      {
+        "signal": "Accel_X_Cval",
+        "value": 0.3000002
+      },
+      {
+        "signal": "Accel_Y_Cval",
+        "value": 0.2104609375000006
+      },
+      {
+        "signal": "YawRate_Cval_BS",
+        "value": 0.001508789062500071
+      },
+      {
+        "signal": "LgtSensNightMod_Stat",
+        "value": 0
+      },
+      {
+        "signal": "LgtSensTwilgtLvl_Stat",
+        "value": 5
+      },
+      {
+        "signal": "ALA_LK_Stat",
+        "value": 3
+      },
+      {
+        "signal": "ALA_LDP_Stat",
+        "value": 3
+      },
+      {
+        "signal": "ALA_LK_DrvActvn_Stat",
+        "value": 3
+      },
+      {
+        "signal": "ALA_LDP_DrvActvn_Stat",
+        "value": 3
+      },
+      {
+        "signal": "ALA_LK_HndOnDeact_Stat",
+        "value": 3
+      },
+      {
+        "signal": "ALA_LK_HndOnWarn_Stat",
+        "value": 3
+      },
+      {
+        "signal": "ALA_LDP_Intrvntn_Stat",
+        "value": 3
+      },
+      {
+        "signal": "ALA_LK_FctChgWarn_Stat",
+        "value": 3
+      },
+      {
+        "signal": "TSR_Func_Stat_MPC",
+        "value": 15
+      },
+      {
+        "signal": "ABA_DrvOvrd_Stat",
+        "value": 0
+      },
+      {
+        "signal": "ABA_SelObj_Stat",
+        "value": 14
+      },
+      {
+        "signal": "MainLgt_Sw_Rq",
+        "value": 0
+      },
+      {
+        "signal": "ASGA_BrkOcc_Rq",
+        "value": 3
+      },
+      {
+        "signal": "BSM_AcstcWarnRt_Rq",
+        "value": 0
+      },
+      {
+        "signal": "ABA_Actv_Stat",
+        "value": 0
+      },
+      {
+        "signal": "ALA_EDSS_HazLgt_Rq",
+        "value": 3
+      },
+      {
+        "signal": "CC_Actvn_Stat",
+        "value": 2
+      },
+      {
+        "signal": "ABA_LmpMon_Stat",
+        "value": 3
+      },
+      {
+        "signal": "ALA_EDSS_Warn_Rq",
+        "value": 3
+      },
+      {
+        "signal": "RetSwPosn2_Stat_PT",
+        "value": 0
+      }
+    ]
+  }
+}
+]

@@ -48,16 +48,16 @@ const Team = () => {
             display="flex"
             justifyContent="center"
             backgroundColor={
-              access === "admin"
+              access === "driver"
                 ? colors.greenAccent[600]
-                : access === "manager"
+                : access === "fleet manager"
                 ? colors.greenAccent[700]
                 : colors.greenAccent[700]
             }
             borderRadius="4px"
           >
-            {access === "admin" && <AdminPanelSettingsOutlinedIcon />}
-            {access === "manager" && <SecurityOutlinedIcon />}
+            {access === "driver" && <AdminPanelSettingsOutlinedIcon />}
+            {access === "fleet manager" && <SecurityOutlinedIcon />}
             {access === "user" && <LockOpenOutlinedIcon />}
             <Typography color={colors.grey[100]} sx={{ ml: "5px" }}>
               {access}
